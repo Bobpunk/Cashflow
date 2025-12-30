@@ -81,7 +81,7 @@ Todo o sistema foi construído **“na unha”**, sem frameworks, com foco em **
 ###  Clonar o Repositório
 
 ```
-git clone https://github.com/SEU_USUARIO/cashflow-php-native.git
+git clone https://github.com/Bobpunk/Cashflow
 cd cashflow-php-native
 ```
 # ⚙️ Configuração do Projeto
